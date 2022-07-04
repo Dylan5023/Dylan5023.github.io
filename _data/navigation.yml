@@ -12,9 +12,11 @@ docs:
     children:
       - title: "paper"
         url: /categories/
+      - title: "Terminology"
+        url: /categories/
       - title: "Pandas"
         url: /categories/
-      - title: "Visuallizationr"
+      - title: "Visuallization"
         url: /categories/
       - title: "ML"
         url: /categories/
