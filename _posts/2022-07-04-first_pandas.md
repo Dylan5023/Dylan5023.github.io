@@ -1,3 +1,13 @@
+layout: single
+title:  "DylanK의 블로그 시작"
+categories: coding
+tag: [python, blog, jekyll]
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+
+
 ```python
 print('안녕하세요')
 '반갑습니다'
