@@ -1,3 +1,4 @@
+---
 layout: single
 title:  "DylanK의 블로그 시작"
 categories: coding
@@ -6,6 +7,7 @@ toc: true
 author_profile: false
 sidebar:
     nav: "docs"
+---
 
 
 ```python
