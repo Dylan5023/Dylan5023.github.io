@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "DylanK의 블로그 시작"
-categories: coding
+title:  "first_pandas"
+categories: Pandas
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
@@ -16,7 +16,7 @@ print('안녕하세요')
 ```
 
     안녕하세요
-    
+
 
 
 
@@ -64,7 +64,7 @@ else:
 ```
 
     1 true
-    
+
 
 
 ```python
@@ -109,7 +109,7 @@ else:
 ```
 
     hu
-    
+
 
 
 ```python
@@ -137,7 +137,7 @@ print(my)
 ```
 
     [2]
-    
+
 
 
 ```python
