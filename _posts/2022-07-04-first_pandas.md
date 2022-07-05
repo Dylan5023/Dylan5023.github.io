@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "first_pandas"
+title:  "pandas_0"
 categories: Pandas
 tag: [python, blog, jekyll]
 toc: true
