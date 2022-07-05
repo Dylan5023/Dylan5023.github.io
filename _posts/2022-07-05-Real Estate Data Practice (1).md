@@ -8,6 +8,8 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
+**[Notice]** [utilize data from public data in **data.or.kr**]
+{: .notice--info}
 
 <head>
   <style>
