@@ -266,7 +266,6 @@ plt.show()
 ## Barhplot
 
 
-barh 함수에서는 **xticks로 설정**했던 부분을 **yticks로 변경**합니다.
 
 
 
