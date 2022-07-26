@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Visualization_practice_seaborn_2"
+title:  "Comparing seaborn and matplotlib"
 categories: Visualization
 tag: [python, blog, jekyll, matplotlib, seaborn]
 toc: true
@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-**[Notice]** [Comparing seaborn and matplotlib]
+**[Notice]** [visualization_practice_seaborn_2]
 {: .notice--info}
 
 <head>

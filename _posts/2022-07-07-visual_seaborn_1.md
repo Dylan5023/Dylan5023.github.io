@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Visualization_practice_seaborn_1"
+title:  "Seaborn"
 categories: Visualization
 tag: [python, blog, jekyll, matplotlib, seaborn]
 toc: true
@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-**[Notice]** [Seaborn]
+**[Notice]** [visualization_practice_seaborn_first]
 {: .notice--info}
 
 <head>
